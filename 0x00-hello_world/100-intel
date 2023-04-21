@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s -msasm=intel $CFILE
+	gcc -s -msasm = intel $CFILE
